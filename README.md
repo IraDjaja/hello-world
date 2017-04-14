@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi there!
+
+Semester's break coming soon!
