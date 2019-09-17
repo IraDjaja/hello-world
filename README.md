@@ -2,4 +2,4 @@
 
 Hi there!
 
-Semester's break coming soon!
+Semester break is coming soon!
